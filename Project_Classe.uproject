@@ -22,6 +22,14 @@
 		{
 			"Name": "MassCrowd",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "Cargo",
+			"Enabled": true
 		}
 	]
 }
