@@ -31,5 +31,8 @@
 			"Name": "Cargo",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
